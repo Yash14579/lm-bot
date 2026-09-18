@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Solution>
+	<Configurations>
+		<BuildType Name="Debug"/>
+		<BuildType Name="Release"/>
+		<BuildType Name="MinSizeRel"/>
+		<BuildType Name="RelWithDebInfo"/>
+		<Platform Name="x64"/>
+	</Configurations>
+	<Project Path="ALL_BUILD.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="2ea7b2b1-8aa2-37a9-8a2d-299ebff15728" DefaultStartup="true">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="client.vcxproj"/>
+		<Build Solution="Debug|*" Project="false"/>
+		<Build Solution="Release|*" Project="false"/>
+		<Build Solution="MinSizeRel|*" Project="false"/>
+		<Build Solution="RelWithDebInfo|*" Project="false"/>
+	</Project>
+	<Project Path="ZERO_CHECK.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="4b8ed045-efd7-34f3-ab94-d1dc4b18b935"/>
+	<Project Path="client.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="6825a7a3-64c6-3590-89b9-14cac9a5ec67">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+	</Project>
+</Solution>

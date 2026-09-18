@@ -1,0 +1,3 @@
+C:/Users/sahdev sinh/Downloads/GameTesting/new_bot/current_bot/build/CMakeFiles/client.dir
+C:/Users/sahdev sinh/Downloads/GameTesting/new_bot/current_bot/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/sahdev sinh/Downloads/GameTesting/new_bot/current_bot/build/CMakeFiles/ZERO_CHECK.dir

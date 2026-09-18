@@ -1,0 +1,3 @@
+/mnt/c/Users/sahdev sinh/Downloads/GameTesting/new_bot/corrent_bot/build_test/CMakeFiles/client.dir
+/mnt/c/Users/sahdev sinh/Downloads/GameTesting/new_bot/corrent_bot/build_test/CMakeFiles/edit_cache.dir
+/mnt/c/Users/sahdev sinh/Downloads/GameTesting/new_bot/corrent_bot/build_test/CMakeFiles/rebuild_cache.dir
